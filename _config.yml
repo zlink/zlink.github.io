@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 没那么简单丶
 subtitle:
-description:
+description: 国家一级抬杠运动员，著名退堂鼓表演艺术家...
 keywords:
-author: John Doe
-language:
+author: zlink
+language: zh-Hans
 timezone:
 
 # URL
@@ -41,7 +41,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
   
 # Home page setting
@@ -73,7 +73,15 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
+scheme: Pisces
+menu:
+  home: /
+  archives: /archives
+  about: /about
+  categories: /categories
+  tags: /tags
+  #commonweal: /404.html
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
