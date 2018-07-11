@@ -8,12 +8,12 @@ subtitle:
 description: 国家一级抬杠运动员，著名退堂鼓表演艺术家...
 keywords:
 author: zlink
-language: zh-Hans
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://zlink.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,16 +73,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
-scheme: Pisces
-menu:
-  home: /
-  archives: /archives
-  about: /about
-  categories: /categories
-  tags: /tags
-  #commonweal: /404.html
-
+theme: apollo
+archive_generator:
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
