@@ -3,7 +3,7 @@ title: 移动端常用meta标签收集
 date: 2018-07-18 23:45:34
 tags: html h5 meta
 ---
-```javascript
+```html
 <!--图标引入-->
 <link rel="short icon" style="image/x-icon" href="taobaoLogo.ico" >
 <link rel="icon" style="image/x-icon" href="taobaoLogo.ico">
