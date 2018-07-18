@@ -1,5 +1,5 @@
 ---
-title: MySQL常见面试考点概括
+title: MySQL常见知识点概括
 date: 2018-07-12 15:21:58
 tags:
 ---
