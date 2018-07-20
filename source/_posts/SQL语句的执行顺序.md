@@ -4,7 +4,6 @@ date: 2018-07-20 23:34:08
 tags: mysql
 ---
 
-```sql
 FORM: 对FROM的左边的表和右边的表计算笛卡尔积。产生虚表VT1
 ON: 对虚表VT1进行ON筛选，只有那些符合<join-condition>的行才会被记录在虚表VT2中。
 JOIN： 如果指定了OUTER JOIN（比如left join、 right join），那么保留表中未匹配的行就会作为外部行添加到虚拟表VT2中，产生虚拟表VT3, rug from子句中包含两个以上的表的话，那么就会对上一个join连接产生的结果VT3和下一个表重复执行步骤1~3这三个步骤，一直到处理完所有的表为止。
@@ -20,5 +19,3 @@ LIMIT：取出指定行的记录，产生虚拟表VT11, 并将结果返回。
 写的顺序：select ... from... where.... group by... having... order by.. limit [offset,] 
 (rows)
 执行顺序：from... where...group by... having.... select ... order by... limit
-
-```
