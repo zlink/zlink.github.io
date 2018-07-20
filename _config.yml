@@ -83,5 +83,7 @@ archive_generator:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zlink/zlink.github.io.git
+  repo: 
+    github: git@github.com:zlink/zlink.github.io.git
+    coding: git@git.coding.net:imx/imx.git
   branch: master
