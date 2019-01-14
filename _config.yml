@@ -4,7 +4,7 @@
 
 # Site
 title: 没那么简单丶
-subtitle:
+subtitle: In case, i don't see you. Good afternoon, good evening and good night.
 description: 国家一级抬杠运动员，著名退堂鼓表演艺术家...
 keywords:
 author: zlink
@@ -73,12 +73,17 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: apollo
-archive_generator:
-    per_page: 0
-    yearly: false
-    monthly: false
-    daily: false
+theme: diaspora
+menu:
+  Whoami: /whoami
+  Github: https://github.com/zlink
+
+TOC: true
+
+autoplay: false
+
+cover: /img/cover.jpg
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
