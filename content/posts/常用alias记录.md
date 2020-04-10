@@ -6,7 +6,7 @@ draft: false
 
 常用的 git aslias 记录
 
-```shell
+```sh
 alias g="git"
 alias gst="git status"
 alias gcmsg="git commit -m"
