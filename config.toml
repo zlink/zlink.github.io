@@ -7,10 +7,7 @@ paginate = 10
 [params]
   author = "Zlink丶"
   avatar = "images/avatar.jpg"
-  description = "Just do it."
+  description = "Just do it..."
   [[params.social]]
     name = "github"
     url = "https://github.com/zlink"
-  [[params.social]]
-    name = "instagram"
-    url = "https://www.instagram.com/zlink/"
