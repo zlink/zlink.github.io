@@ -1,7 +1,7 @@
 ---
 title: mysql排序规则COLLATE修改
 date: 2018-07-18 23:35:48
-tags: mysql
+tags: [MySQL]
 ---
 
 ```sql

@@ -1,7 +1,7 @@
 ---
 title: 为Git设置代理规则
 date: 2018-07-18 23:38:03
-tags: git proxy
+tags: [git, proxy]
 ---
 
 ```bash

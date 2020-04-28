@@ -1,7 +1,7 @@
 ---
 title: javascript中call、apply、bind区别
 date: 2018-07-11 16:31:18
-tags: js
+tags: [javascript]
 ---
 
 call、apply、bind 三个方法都是用来改变方法中 this 的指向的

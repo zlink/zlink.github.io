@@ -1,7 +1,7 @@
 ---
 title: 用golang实现一个RPC
 date: 2018-07-11 15:15:43
-tags: go golang rpc
+tags: [go, golang, rpc]
 ---
 
 使用 golang 实现一个简单的 json rpc，提供乘除功能

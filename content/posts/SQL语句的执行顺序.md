@@ -1,7 +1,7 @@
 ---
 title: SQL语句的执行顺序
 date: 2018-07-20 23:34:08
-tags: mysql
+tags: [MySQL]
 ---
 
 知道怎么执行的才能更好的优化 sql 的写法。

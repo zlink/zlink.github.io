@@ -1,7 +1,7 @@
 ---
 title: 移动端常用meta标签收集
 date: 2018-07-18 23:45:34
-tags: html h5 meta
+tags: [html, h5, meta]
 ---
 
 ```html

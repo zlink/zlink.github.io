@@ -1,7 +1,7 @@
 ---
 title: 用PHP实现一个简单的二叉树
 date: 2018-08-05 12:00:37
-tags:
+tags: [php]
 ---
 
 ```php

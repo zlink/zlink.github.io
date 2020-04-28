@@ -1,7 +1,7 @@
 ---
 title: Redis知识点归纳
 date: 2018-07-18 23:39:50
-tags: redis
+tags: [redis]
 ---
 
 ### 支持数据类型

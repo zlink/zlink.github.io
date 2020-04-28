@@ -1,7 +1,7 @@
 ---
 title: nginx的配置、虚拟主机、负载均衡和反向代理
 date: 2018-07-11 14:33:07
-tags: nginx
+tags: [nginx]
 ---
 
 ### nginx.conf 配置文件详解
