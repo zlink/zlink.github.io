@@ -1,6 +1,5 @@
 name: github pages
 
-# 当 master 分支发生 push 事件时执行下面任务
 on:
   push:
     branches:
@@ -18,7 +17,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: "latest"
 
       - name: Build
         run: hugo --minify
