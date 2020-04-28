@@ -3,7 +3,9 @@ title: 使含有私有属性的对象可以像数组一样进行foreach循环
 date: 2018-08-04 19:00:37
 tags: php
 ---
+
 这段时间面试的时候，遇到过这样一个面试题，简单的记录一下。
+
 ```php
 
 class Foo implements Iterator
